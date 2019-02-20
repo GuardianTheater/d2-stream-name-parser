@@ -1,0 +1,6 @@
+pillow
+pytesseract
+opencv-python-headless
+imutils
+requests
+GitPython
